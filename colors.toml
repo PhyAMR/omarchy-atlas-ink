@@ -1,0 +1,35 @@
+mode = "light"
+
+# Atlas Ink: Solitude turned over onto e-ink paper.
+accent = "#5d6367"
+selection = "#cfc6b2"
+muted = "#9a9384"
+
+background = "#e2dac8"
+dark_background = "#d8d0bd"
+darker_background = "#cec6b3"
+lighter_background = "#ebe4d3"
+
+foreground = "#2a2723"
+dark_foreground = "#9a9384"
+light_foreground = "#4a443b"
+bright_foreground = "#4a5156"
+
+hyprland_active_border = "rgba(2a2723ee) rgba(655e52ee)"
+hyprland_inactive_border = "rgb(c4bba7)"
+active_border_color = "#3a4044"
+active_tab_background = "#5d6367"
+
+red = "#8f9497"
+yellow = "#1c1f21"
+green = "#4c5256"
+cyan = "#6f6f6f"
+blue = "#5d6367"
+magenta = "#4a4a4a"
+
+bright_red = "#b4442b"
+bright_yellow = "#6e6352"
+bright_green = "#a8aeb1"
+bright_cyan = "#6f6f6f"
+bright_blue = "#7d8387"
+bright_magenta = "#5e5e5e"

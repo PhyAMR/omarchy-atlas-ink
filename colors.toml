@@ -10,7 +10,7 @@ dark_background = "#d8d0bd"
 darker_background = "#cec6b3"
 lighter_background = "#ebe4d3"
 
-foreground = "#2a2723"
+foreground = "#313538"
 dark_foreground = "#9a9384"
 light_foreground = "#4a443b"
 bright_foreground = "#4a5156"

@@ -7,7 +7,7 @@
 # Alpha companions (where present) range from 0 (invisible) to 1 (opaque).
 background       = "#e2dac8"
 background-alpha = 0.0
-text             = "#2a2723"
+text             = "#313538"
 # Modules calling attention to themselves (recording, voxtype, alerts, updates)
 active           = "#b4442b"
 # Cross-axis size at font base-size 12. size-horizontal is the height of
@@ -124,7 +124,7 @@ base-size = 12
 # Atlas: same surface as the bar islands, with a hairline border.
 background       = "#ebe4d3"
 background-alpha = 1.0
-text             = "#2a2723"
+text             = "#313538"
 border           = "#bdb4a0"
 border-alpha     = 1.0
 border-width     = 1
@@ -133,7 +133,7 @@ border-width     = 1
 # Atlas: same surface as the bar islands, with a hairline border.
 background       = "#ebe4d3"
 background-alpha = 0.97
-text             = "#2a2723"
+text             = "#313538"
 border           = "#bdb4a0"
 border-alpha     = 1.0
 border-width     = 1
@@ -142,7 +142,7 @@ border-width     = 1
 # Atlas: same surface as the bar islands, with a hairline border.
 background       = "#ebe4d3"
 background-alpha = 1.0
-text             = "#2a2723"
+text             = "#313538"
 border           = "#bdb4a0"
 border-alpha     = 1.0
 border-width     = 1
@@ -156,7 +156,7 @@ countdown        = "#655e52"
 # mirror [menu] with the card at 0.95 to preserve the legacy translucency.
 background       = "#ebe4d3"
 background-alpha          = 0.95
-text                      = "#2a2723"
+text                      = "#313538"
 border           = "#bdb4a0"
 border-alpha              = 1.0
 scrim                     = "#e2dac8"
@@ -175,7 +175,7 @@ border-width     = 1
 # behind the card. Clipboard and emojis inherit these tokens.
 background       = "#ebe4d3"
 background-alpha          = 1.0
-text                      = "#2a2723"
+text                      = "#313538"
 border           = "#bdb4a0"
 border-alpha              = 1.0
 scrim                     = "#e2dac8"
@@ -196,7 +196,7 @@ border-width     = 1
 # border-error (the two states are mutually exclusive in time).
 background       = "#ebe4d3"
 background-alpha = 1.0
-text             = "#2a2723"
+text             = "#313538"
 text-error       = "#b4442b"
 border           = "#bdb4a0"
 border-error     = "#b4442b"
@@ -216,7 +216,7 @@ border-width     = 1
 # exclusive in time).
 background       = "#ebe4d3"
 background-alpha = 0.9
-text             = "#2a2723"
+text             = "#313538"
 placeholder      = "#8a8274"
 text-error       = "#b4442b"
 border           = "#bdb4a0"
@@ -235,7 +235,7 @@ border-width     = 1
 # unselected-border-alpha softens carousel slices that aren't selected.
 scrim                   = "#e2dac8"
 scrim-alpha             = 0.5
-text                    = "#2a2723"
+text                    = "#313538"
 selected-border         = "#5d6367"
 selected-border-alpha   = 1.0
 unselected-border       = "#2a2723"
